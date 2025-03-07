@@ -11,6 +11,7 @@
   <summary>Typescript</summary>
   
   - [Medusa](https://github.com/medusajs/medusa)  ![Tag](https://img.shields.io/github/v/tag/medusajs/medusa) ![Release](https://img.shields.io/github/v/release/medusajs/medusa) ![Star](https://img.shields.io/github/stars/medusajs/medusa)
+  - [Vendure](https://github.com/vendure-ecommerce/vendure)  ![Tag](https://img.shields.io/github/v/tag/vendure-ecommerce/vendure) ![Release](https://img.shields.io/github/v/release/vendure-ecommerce/vendure) ![Star](https://img.shields.io/github/stars/vendure-ecommerce/vendure)
 </details>
 
 <details open>
