@@ -12,3 +12,9 @@
   
   - [Medusa](https://github.com/medusajs/medusa)  ![Tag](https://img.shields.io/github/v/tag/medusajs/medusa) ![Release](https://img.shields.io/github/v/release/medusajs/medusa) ![Star](https://img.shields.io/github/stars/medusajs/medusa)
 </details>
+
+<details open>
+  <summary>Ruby</summary>
+  
+  - [Solidus](https://github.com/solidusio/solidus)  ![Tag](https://img.shields.io/github/v/tag/solidusio/solidus) ![Release](https://img.shields.io/github/v/release/solidusio/solidus) ![Star](https://img.shields.io/github/stars/solidusio/solidus)
+</details>
