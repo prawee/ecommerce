@@ -18,3 +18,9 @@
   
   - [Solidus](https://github.com/solidusio/solidus)  ![Tag](https://img.shields.io/github/v/tag/solidusio/solidus) ![Release](https://img.shields.io/github/v/release/solidusio/solidus) ![Star](https://img.shields.io/github/stars/solidusio/solidus)
 </details>
+
+<details open>
+  <summary>Python</summary>
+  
+  - [Saleor](https://github.com/saleor/saleor)  ![Tag](https://img.shields.io/github/v/tag/saleor/saleor) ![Release](https://img.shields.io/github/v/release/saleor/saleor) ![Star](https://img.shields.io/github/stars/saleor/saleor)
+</details>
