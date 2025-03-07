@@ -33,3 +33,9 @@
   
   - [Saleor](https://github.com/saleor/saleor)  ![Tag](https://img.shields.io/github/v/tag/saleor/saleor) ![Release](https://img.shields.io/github/v/release/saleor/saleor) ![Star](https://img.shields.io/github/stars/saleor/saleor)
 </details>
+
+<details open>
+  <summary>Go</summary>
+  
+  - [Flamingo](https://github.com/i-love-flamingo/flamingo-commerce)  ![Tag](https://img.shields.io/github/v/tag/i-love-flamingo/flamingo-commerce) ![Release](https://img.shields.io/github/v/release/i-love-flamingo/flamingo-commerce) ![Star](https://img.shields.io/github/stars/i-love-flamingo/flamingo-commerce)
+</details>
