@@ -5,6 +5,7 @@
   
   - [Bagisto](https://github.com/bagisto/bagisto)  ![Tag](https://img.shields.io/github/v/tag/bagisto/bagisto) ![Release](https://img.shields.io/github/v/release/bagisto/bagisto) ![Star](https://img.shields.io/github/stars/bagisto/bagisto)
   - [Sylius](https://github.com/sylius/sylius)  ![Tag](https://img.shields.io/github/v/tag/sylius/sylius) ![Release](https://img.shields.io/github/v/release/sylius/sylius) ![Star](https://img.shields.io/github/stars/sylius/sylius)
+  - [Beikeshop](https://github.com/beikeshop/beikeshop)  ![Tag](https://img.shields.io/github/v/tag/beikeshop/beikeshop) ![Release](https://img.shields.io/github/v/release/beikeshop/beikeshop) ![Star](https://img.shields.io/github/stars/beikeshop/beikeshop)
 </details>
 
 <details open>
